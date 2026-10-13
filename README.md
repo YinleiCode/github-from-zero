@@ -2,7 +2,7 @@
 
 公开阅读：https://yinleicode.github.io/github-from-zero/
 
-第 1 章已经写成短步骤：看懂仓库、认出按钮、决定 Fork 还是模板。第 2 章到第 6 章还没写。
+六章都已写完：看懂仓库，在网页和电脑上改，读别人的项目，交出 Pull Request，再发布成自己的页面。
 
 先看 [src/preface.md](src/preface.md)，再看第 1 章。
 

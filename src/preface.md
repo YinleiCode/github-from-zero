@@ -6,6 +6,6 @@
 2. 在自己的账号里留一份副本，并改一处看得见的地方。
 3. 需要时，用 Pull Request 把改动交给原作者。
 
-先看第 1 章。命令以后再记。
+从第 1 章按顺序做到第 6 章。第 1 章只看，命令从第 3 章开始。
 
-只用浏览器的话，官方这一课大约一小时，做完就会改文件、提交、合并：[Introduction to GitHub](https://github.com/skills/introduction-to-github)。
+按钮名称以网页上的英文为准。你的默认分支如果叫 `master`，就把书里的 `main` 换成 `master`。

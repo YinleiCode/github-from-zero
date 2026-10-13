@@ -1,13 +1,12 @@
-# 后面还要学什么
+# 学完了吗
 
-第 1 章只练「看」。下面五章还没写，学完才算会用。
+六件事都能做到，这门课就过了。
 
-| 章 | 学完你会 |
+| 检查 | 过关标准 |
 | --- | --- |
-| 第 2 章 在网页上改一次 | 建仓库，写说明，开分支，提交，开 Pull Request，合并 |
-| 第 3 章 放到自己电脑 | 克隆、提交、推送、拉取、开分支 |
-| 第 4 章 跑一个别人的项目 | 按 README 跑起来，找到你要改的那个文件 |
-| 第 5 章 改一处并交出去 | 改一处看得见的地方，写清楚 Pull Request |
-| 第 6 章 做成自己的项目 | 写自己的 README 和许可证，把页面发布出去 |
-
-第 2 章会直接跟着 [Introduction to GitHub](https://github.com/skills/introduction-to-github) 做，书里只写每一步点哪里、为什么点。
+| [第 1 章](./chapter_read/README.md) | 打开一个仓库，说出许可证允不允许你用 |
+| [第 2 章](./chapter_web/README.md) | 自己的仓库里有一次通过 Pull Request 合并的修改 |
+| [第 3 章](./chapter_local/README.md) | 电脑上改一句，刷新网页能看见 |
+| [第 4 章](./chapter_run/README.md) | 指出一个别人的项目怎么运行、要改哪个文件 |
+| [第 5 章](./chapter_pr/README.md) | 向练习仓库交出一个只改一行的 Pull Request |
+| [第 6 章](./chapter_ship/README.md) | 别人打开你的 Pages 网址，能看见你的说明 |
