@@ -1,0 +1,12 @@
+[book]
+title = "从零看懂 GitHub"
+description = "零基础：看懂一个开源仓库，改成自己的项目。"
+language = "zh"
+src = "src"
+
+[output.html]
+additional-css = ["theme/custom.css"]
+preferred-dark-theme = "ayu"
+no-section-label = true
+site-url = "/github-from-zero/"
+git-repository-url = "https://github.com/YinleiCode/github-from-zero"

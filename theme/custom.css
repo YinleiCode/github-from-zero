@@ -1,0 +1,33 @@
+:root {
+  --content-max-width: 740px;
+}
+
+.content blockquote {
+  border-left: 3px solid var(--quote-border);
+  background: var(--quote-bg);
+  padding: 0.6em 1em;
+  color: var(--fg);
+}
+
+.content table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.content table th,
+.content table td {
+  border: 1px solid var(--table-border-color);
+  padding: 0.45em 0.6em;
+  vertical-align: top;
+  color: var(--fg);
+}
+
+.content table th {
+  background: var(--table-header-bg);
+}
+
+.content h1,
+.content h2,
+.content h3 {
+  font-weight: 650;
+}
