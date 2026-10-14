@@ -1,5 +1,7 @@
 # 第 5 章 改一处并交出去
 
+这是选学。先做完 [第 4 章](../chapter_run/README.md)。主线还没做完的话，先去 [第 6 章](../chapter_ship/README.md)。
+
 这一章向一个欢迎新手的仓库交一个 Pull Request。练习仓库是 [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions)。许可证是 MIT。它要你做的事只有一件：在 `Contributors.md` 里加上你的名字。
 
 | 小节 | 你要会 |

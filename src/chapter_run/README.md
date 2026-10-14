@@ -1,5 +1,7 @@
 # 第 4 章 看懂一个别人的项目
 
+这是选学。主线先做完 [第 6 章](../chapter_ship/README.md)，再回来。
+
 这一章练眼睛。先看懂一个小仓库怎么运行、改哪一个文件。看懂之前不克隆，也不提 Pull Request。
 
 练习仓库用 [octocat/Spoon-Knife](https://github.com/octocat/Spoon-Knife)。它只有一个网页，适合看结构。它没有 LICENSE 文件，所以只看，不拿来当自己的项目。

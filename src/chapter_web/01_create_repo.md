@@ -2,7 +2,7 @@
 
 一个项目用一个仓库。现在建你自己的第一个。
 
-1. 打开 [github.com](https://github.com) 并登录。
+1. 打开 [github.com](https://github.com) 并登录。右上角还是 **Sign up**，先做 [注册账号](../signup.md)。
 2. 点右上角的 **+**，再点 **New repository**。
 3. Repository name 填 `my-notes`。只用小写字母、数字和短横线。
 4. 选 **Public**。

@@ -39,4 +39,6 @@ git pull
 
 `git status` 现在应该停在 `main`，并且是 clean。网页上的 README 有「分支上的练习」这一行。两处都对，第 3 章就过了。
 
-下一步：[第 4 章 看懂一个别人的项目](../chapter_run/README.md)。
+下一步做主线的最后一章：[第 6 章 做成自己的项目](../chapter_ship/README.md)。
+
+第 4 章、第 5 章是选学，等页面发出去再看。

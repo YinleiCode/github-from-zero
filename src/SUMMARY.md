@@ -2,6 +2,8 @@
 
 [开始](./preface.md)
 
+[注册账号](./signup.md)
+
 ---
 
 - [第 1 章 先看懂一个仓库](./chapter_read/README.md)
@@ -19,12 +21,12 @@
   - [3.2 改完，提交，推上去](./chapter_local/02_commit_push.md)
   - [3.3 拉取更新，用分支试改动](./chapter_local/03_pull_branch.md)
 
-- [第 4 章 看懂一个别人的项目](./chapter_run/README.md)
+- [第 4 章 看懂一个别人的项目（选学）](./chapter_run/README.md)
   - [4.1 先决定能不能动](./chapter_run/01_can_i_use.md)
   - [4.2 只跑 README 里的命令](./chapter_run/02_run_readme.md)
   - [4.3 找到要改的那一个文件](./chapter_run/03_find_file.md)
 
-- [第 5 章 改一处并交出去](./chapter_pr/README.md)
+- [第 5 章 改一处并交出去（选学）](./chapter_pr/README.md)
   - [5.1 Fork 之后只改一行](./chapter_pr/01_fork_change.md)
   - [5.2 把 Pull Request 写清楚](./chapter_pr/02_write_pr.md)
   - [5.3 冲突了就这样解决](./chapter_pr/03_conflict.md)

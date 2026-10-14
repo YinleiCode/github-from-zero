@@ -38,4 +38,4 @@ git push
 
 你的 Pull Request 处于两种状态之一：已经 Merged，或者已经没有冲突、等对方看。两种都算第 5 章过关。
 
-下一步：[第 6 章 做成自己的项目](../chapter_ship/README.md)。
+主线如果还没做，去 [第 6 章](../chapter_ship/README.md)。已经做完，用 [学完了吗](../roadmap.md) 对一下。
